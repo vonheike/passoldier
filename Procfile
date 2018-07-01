@@ -1,1 +1,1 @@
-worker: python Script.py
+worker: python shitstorm.py
