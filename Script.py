@@ -109,7 +109,7 @@ def on_join(bot, update):
 
 def main():
 
-    updater = Updater("432123728:AAElJkRP6anMgQcq9x3eGps0-cj1FZ-EFrc")
+    updater = Updater("550184488:AAGn1Hux_LLphZpyFszGzxyyd2ggguSG1e0")
 
     dp = updater.dispatcher
 
